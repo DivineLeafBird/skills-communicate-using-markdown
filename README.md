@@ -1,4 +1,4 @@
-# H1
+
 <header>
 
 <!--
@@ -20,6 +20,13 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+## This is an `<h2>` header
+
+### This is a `<H3>` header
+
+#### This is a `<H4>` header
+
+##### This is a `<H5>` header
 
 ## Step 1: Add headers
 
@@ -46,14 +53,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-### This is a `<H3>` header
-
-#### This is a `<H4>` header
-
-##### This is a `<H5>` header
 
 ###### This is an `<h6>` header, which is the smallest
 
