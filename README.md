@@ -20,12 +20,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-# Step 1: Add headers
-## Step 2: Add headers
-### Step 3: Add headers
-#### Step 4: Add headers
-##### Step 5: Add headers
-###### Step 6: Add headers
+# Step 1: Add header
+## Step 2: Add header
+### Step 3: Add header
+#### Step 4: Add header
+##### Step 5: Add header
+###### Step 6: Add header
 
 
 
