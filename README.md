@@ -20,13 +20,14 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-## This is an `<h2>` header
+# Step 1: Add headers
+## Step 2: Add headers
+### Step 3: Add headers
+#### Step 4: Add headers
+##### Step 5: Add headers
+###### Step 6: Add headers
 
-### This is a `<H3>` header
 
-#### This is a `<H4>` header
-
-##### This is a `<H5>` header
 
 ## Step 1: Add headers
 
